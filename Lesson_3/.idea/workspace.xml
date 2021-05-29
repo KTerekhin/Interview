@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1619549-d2c0-4d5d-b851-69bf5e536956" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1t6wzvwIcgdEaYuWMUvQUUWPqrF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ru/gb/reentrant" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Terekhin_KA\Programms\SHLAK\Gubka 160\NC_Program\Study\Programs\Quarter_4\Interview\Lesson_3\src\ru\gb\reentrant" />
+      <recent name="D:\Terekhin_KA\Programms\SHLAK\Gubka 160\NC_Program\Study\Programs\Quarter_4\Interview\Lesson_3\src\ru\gb\garbage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CounterLock">
+    <configuration name="CounterLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.task_2.CounterLock" />
+      <module name="Lesson_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.task_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterTester (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.example_1.CounterTester" />
+      <module name="Lesson_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.example_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.garbage.Main" />
+      <module name="Lesson_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.garbage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.race.MainClass" />
+      <module name="Lesson_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.race.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReentrantLockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.reentrant.ReentrantLockExample" />
+      <module name="Lesson_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.reentrant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.CounterTester (1)" />
+      <item itemvalue="Application.MainClass" />
+      <item itemvalue="Application.ReentrantLockExample" />
+      <item itemvalue="Application.CounterLock" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CounterLock" />
+        <item itemvalue="Application.CounterTester (1)" />
+        <item itemvalue="Application.ReentrantLockExample" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1619549-d2c0-4d5d-b851-69bf5e536956" name="Default Changelist" comment="" />
+      <created>1622103112143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622103112143</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1622274858916">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622274858916" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1622204708915">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622204708915" />
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom" timestamp="1622277735676">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622277735676" />
+    <state width="1877" height="277" key="GridCell.Tab.0.center" timestamp="1622277735676">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622277735676" />
+    <state width="1877" height="277" key="GridCell.Tab.0.left" timestamp="1622277735676">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622277735676" />
+    <state width="1877" height="277" key="GridCell.Tab.0.right" timestamp="1622277735676">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="277" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622277735676" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1622271966400">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622271966400" />
+    <state x="702" y="144" key="refactoring.ChangeSignatureDialog" timestamp="1622276222988">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="702" y="144" key="refactoring.ChangeSignatureDialog/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622276222988" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1622272381921">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1622272381921" />
+  </component>
+</project>
